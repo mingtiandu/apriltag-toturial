@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/apriltag-toturial.iml" filepath="$PROJECT_DIR$/.idea/apriltag-toturial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apriltag-tutorial.iml" filepath="$PROJECT_DIR$/.idea/apriltag-tutorial.iml" />
     </modules>
   </component>
 </project>
